@@ -1,15 +1,9 @@
 # auto_twitterer
+by Kaho Abe
 
-///////////////////////////////////////
-//         AUTO TWITTERER            //
-//          by Kaho Abe              //
-//          Sept 4, 2015             //
-///////////////////////////////////////
-// Made this for games.              //
-// Run this seperately to tweet as   //
-// many images as possible, without  //
-// shutting down.                    //
-///////////////////////////////////////
+Sept 4, 2015
+
+Made this for games to tweet as many images as possible, without shutting down.                 
 
 gitignoring 2 things:
 
