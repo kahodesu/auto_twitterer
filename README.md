@@ -1,15 +1,15 @@
 # auto_twitterer
 
-#///////////////////////////////////////
-#//         AUTO TWITTERER            //
-#//          by Kaho Abe              //
-#//          Sept 4, 2015             //
-#///////////////////////////////////////
-#// Made this for games.              //
-#// Run this seperately to tweet as   //
-#// many images as possible, without  //
-#// shutting down.                    //
-#///////////////////////////////////////
+///////////////////////////////////////
+//         AUTO TWITTERER            //
+//          by Kaho Abe              //
+//          Sept 4, 2015             //
+///////////////////////////////////////
+// Made this for games.              //
+// Run this seperately to tweet as   //
+// many images as possible, without  //
+// shutting down.                    //
+///////////////////////////////////////
 
 gitignoring 2 things:
 1. twitter4j library (download at http://twitter4j.org/en/index.html)
