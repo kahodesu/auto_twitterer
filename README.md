@@ -17,7 +17,7 @@ gitignoring 2 things:
 
 2. text file with secret OAuth keys
 
-This app will look for the oldest image in a directory and tweet it, with the title as its text. 
+This sketch will look for the oldest image in a directory and tweet it, with the title as its text. 
 
 Then will wait for 2 minutes to tweet the next one. 
 
